@@ -2,94 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="668a8fea-8c35-4eb1-99c4-6e81ade24297" name="Default Changelist" comment="">
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/AddHabitViewController.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/AddHabitViewController.xib" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/book.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/book.imageset/book.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/bulb.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/bulb.imageset/bulb.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/clock.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/clock.imageset/clock.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/code.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/code.imageset/code.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/drop.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/drop.imageset/drop.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/food.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/food.imageset/food.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/grow.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/grow.imageset/grow.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/gym.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/gym.imageset/gym.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/heart.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/heart.imageset/heart.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/lotus.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/lotus.imageset/lotus.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/other.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/other.imageset/other.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/pet.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/pet.imageset/pet.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/pill.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/pill.imageset/pill.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/search.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/search.imageset/search.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/sleep.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/sleep.imageset/sleep.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/tooth.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Assets.xcassets/tooth.imageset/tooth.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/ComfirmHabitViewController.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/ConfirmHabitViewController.xib" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Habit.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/HabitDetailedViewController.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/HabitDetailedViewController.xib" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/HabitImageCollectionViewCell.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/HabitImageCollectionViewCell.xib" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/HabitsTableViewController.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/PersistenceLayer.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Views/HabitTableViewCell.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Views/HabitTableViewCell.xib" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/MakeSchoolNotes-Swift-V2-Starter-swift4-coredata/MakeSchoolNotes.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/MakeSchoolNotes-Swift-V2-Starter-swift4-coredata/MakeSchoolNotes.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/MakeSchoolNotes-Swift-V2-Starter-swift4-coredata/MakeSchoolNotes/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/MakeSchoolNotes-Swift-V2-Starter-swift4-coredata/MakeSchoolNotes/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/MakeSchoolNotes-Swift-V2-Starter-swift4-coredata/MakeSchoolNotes/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/MakeSchoolNotes-Swift-V2-Starter-swift4-coredata/MakeSchoolNotes/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/MakeSchoolNotes-Swift-V2-Starter-swift4-coredata/MakeSchoolNotes/Controllers/DisplayNoteViewController.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/MakeSchoolNotes-Swift-V2-Starter-swift4-coredata/MakeSchoolNotes/Controllers/ListNotesTableViewController.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/MakeSchoolNotes-Swift-V2-Starter-swift4-coredata/MakeSchoolNotes/Extensions/Date+convertToString.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/MakeSchoolNotes-Swift-V2-Starter-swift4-coredata/MakeSchoolNotes/Helpers/.gitkeep" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/MakeSchoolNotes-Swift-V2-Starter-swift4-coredata/MakeSchoolNotes/Info.plist" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/MakeSchoolNotes-Swift-V2-Starter-swift4-coredata/MakeSchoolNotes/MakeSchoolNotes.xcdatamodeld/MakeSchoolNotes.xcdatamodel/contents" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/MakeSchoolNotes-Swift-V2-Starter-swift4-coredata/MakeSchoolNotes/Models/.gitkeep" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/MakeSchoolNotes-Swift-V2-Starter-swift4-coredata/MakeSchoolNotes/Views/ListNotesTableViewCell.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/PlacesPersistenceDemo/PlacesPersistenceDemo/Models/PlacesModel.xcdatamodeld/PlacesModel.xcdatamodel/contents" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/PlacesPersistenceDemo/PlacesPersistenceDemo/PlacesTableViewCell.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/PlacesPersistenceDemo/PlacesPersistenceDemo/PlacesTableViewController.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/zipcoredatea111/zipcoredatea111.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/zipcoredatea111/zipcoredatea111/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/zipcoredatea111/zipcoredatea111/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/zipcoredatea111/zipcoredatea111/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/zipcoredatea111/zipcoredatea111/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/zipcoredatea111/zipcoredatea111/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/zipcoredatea111/zipcoredatea111/Info.plist" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/zipcoredatea111/zipcoredatea111/ViewController.swift" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/zipcoredatea111/zipcoredatea111/zipcoredatea111.xcdatamodeld/.xccurrentversion" afterDir="false" />
-      <change afterPath="$USER_HOME$/Swift/zipcoredatea111/zipcoredatea111/zipcoredatea111.xcdatamodeld/zipcoredatea111.xcdatamodel/contents" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrayutilities/GenericArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrayutilities/IntegerArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/numberutilities/MaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/numberutilities/NumberUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/numberutilities/OddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/numberutilities/TwoSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringutilities/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/arrayutilities/IntegerArrayUtilsTest.java" afterDir="false" />
-      <change beforePath="$USER_HOME$/Magic8Ball/Magic8Ball/Magic8Ball/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$USER_HOME$/Magic8Ball/Magic8Ball/Magic8Ball/Assets.xcassets/AppIcon.appiconset/app_icon@2x.png" beforeDir="false" />
-      <change beforePath="$USER_HOME$/Magic8Ball/Magic8Ball/Magic8Ball/Assets.xcassets/AppIcon.appiconset/app_icon@3x.png" beforeDir="false" />
-      <change beforePath="$USER_HOME$/README.md" beforeDir="false" />
-      <change beforePath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Views/HabitsTableViewController.swift" beforeDir="false" />
-      <change beforePath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/Views/HabitsTableViewController.xib" beforeDir="false" afterPath="$USER_HOME$/Swift/Habitual/Habitual/Habitual/HabitsTableViewController.xib" afterDir="false" />
-      <change beforePath="$USER_HOME$/Swift/TipCalculatorStarter-master/TipCalculatorStarter/ColorTheme.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrayutilities/GenericArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrayutilities/GenericArrayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/arrayutilities/IntegerArrayUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -101,34 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/stringutilities/StringUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/arrayutilities/GenericArrayUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/arrayutilities/IntegerArrayUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="236" column="53" selection-start-line="236" selection-start-column="53" selection-end-line="236" selection-end-column="53" />
+            <state relative-caret-position="253">
+              <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,30 +32,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/numberutilities/OddEven.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/numberutilities/NumberUtils.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/numberutilities/MaxMin.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/numberutilities/TwoSmallest.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/arrayutilities/IntegerArrayUtilsTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/arrayutilities/IntegerArrayUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="67" column="76" selection-start-line="67" selection-start-column="76" selection-end-line="67" selection-end-column="76" />
+            <state relative-caret-position="629">
+              <caret line="236" column="53" selection-start-line="236" selection-start-column="53" selection-end-line="236" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -184,15 +59,17 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/arrayutilities/GenericArrayUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/numberutilities/TwoSmallest.java" />
         <option value="$PROJECT_DIR$/src/main/java/arrayutilities/IntegerArrayUtils.java" />
         <option value="$PROJECT_DIR$/src/test/java/arrayutilities/IntegerArrayUtilsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arrayutilities/DuplicateDeleter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arrayutilities/GenericArrayUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/arrayutilities/IntegerDuplicateDeleterTest.java" />
       </list>
     </option>
   </component>
@@ -276,26 +153,18 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="utilities" type="b2602c69:ProjectViewProjectNode" />
-              <item name="utilities" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="arrayutilities" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545080296018" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545080395104" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -377,6 +246,7 @@
       <updated>1545070892913</updated>
       <workItem from="1545070894610" duration="704000" />
       <workItem from="1545079383219" duration="245000" />
+      <workItem from="1545080154755" duration="240000" />
     </task>
     <servers />
   </component>
@@ -392,20 +262,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="949000" />
+    <option name="totallyTimeSpent" value="1189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32959327" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32959327" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32959327" />
@@ -416,8 +284,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32959327" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32959327" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -444,13 +313,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrayutilities/GenericArrayUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/numberutilities/OddEven.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -463,9 +325,69 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/numberutilities/TwoSmallest.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/arrayutilities/IntegerArrayUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="67" column="76" selection-start-line="67" selection-start-column="76" selection-end-line="67" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/arrayutilities/StringDuplicateDeleterTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/arrayutilities/TestUtils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/arrayutilities/TestSuite.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arrayutilities/IntegerDuplicateDeleter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arrayutilities/StringDuplicateDeleter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arrayutilities/RandomNumberFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arrayutilities/DuplicateDeleter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arrayutilities/DuplicateDeleterInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arrayutilities/ArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="62" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/arrayutilities/IntegerDuplicateDeleterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/arrayutilities/IntegerArrayUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="629">
           <caret line="236" column="53" selection-start-line="236" selection-start-column="53" selection-end-line="236" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -473,10 +395,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrayutilities/IntegerArrayUtilsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/arrayutilities/GenericArrayUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="67" column="76" selection-start-line="67" selection-start-column="76" selection-end-line="67" selection-end-column="76" />
+        <state relative-caret-position="253">
+          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
